@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,MAAM;EACF,MAAM,EAAE,KAAK;EACb,UAAU,ECAA,OAAO;;ACDrB,MAAM;EACF,MAAM,EAAE,KAAK;EACb,UAAU,EDHH,OAAO;;ACKlB,OAAO;EACH,MAAM,EAAE,KAAK;EACb,UAAU,EDNF,OAAO;;ACSnB;;;;;;;;;;;;;;;;;;;;;;GAsBG",
+"sources": ["../sass/_footer.scss","../sass/_variables.scss","../sass/estilos.scss"],
+"names": [],
+"file": "estilos.css"
+}
